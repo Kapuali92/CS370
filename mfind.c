@@ -4,11 +4,6 @@
  *  Decription: Implementation of an mfind program that uses strnstr to find the
  *  location of a string in a file using mmap();
  *
- *  Copyright (c) 2018, Jisoo Yang
- *
- *  This is written as part of CS 370 project
- *  
- *  Writen by Jisoo Yang <jisoo.yang@unlv.edu>  
  */
 
 #include <unistd.h>
