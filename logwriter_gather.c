@@ -1,19 +1,7 @@
 /*  
- *  Copyright (c) 2018, Jisoo Yang - All rights reserved.
- *
- *  This is written as part of CS 370 project
- *  
- *  Writen by Jisoo Yang <jisoo.yang@unlv.edu>  
- *
  *  Name: Blaize K. Rodrigues
  *  Date: October 28th, 2018
- *  Late Days Used for Project = 1.
- *  Remaining Late Days = 2. 
- *  Description: For some reason only the last item in the ring bufer gets
- *  output to the logfile. I've spent so many hours trying to figure out why this is happeneing,
- *  and i lost hope. I've tested my code multiple times to see if the items
- *  items are being copied into the ring buffer and they are.
- *  Uncomment line #241 to see the items in the ring buffer. Ignore the warning message upon 
+ *  Description: Uncomment line #241 to see the items in the ring buffer. Ignore the warning message upon 
  *  compiling with line 241 active. 
  */
 
